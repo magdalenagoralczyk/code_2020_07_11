@@ -1,6 +1,6 @@
 package com.inqoo.basics;
 
-public class HelloWorld {
+public class helloBeauty {
 
     public static void main(String[] args) {
         System.out.println("Witaj!");
