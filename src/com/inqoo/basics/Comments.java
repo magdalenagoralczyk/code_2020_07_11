@@ -6,6 +6,7 @@ public class Comments {
         System.out.println("Witaj na "); //Powitanie
         System.out.println("kursie programowania");
 
+// jakiś komentarz
         /* Na koniec emotka,
           bo powaga zabija ;)
          */
